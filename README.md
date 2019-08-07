@@ -26,7 +26,7 @@ step 3. Donwload it to the board and run it.
 ## System architecture
 This project bases on Window MFC framework (WINCE), the general architecture is,
 
-![](https://github.com/Borrk/JWM1400/raw/master/doc/System-Architecture.png)
+![](https://github.com/Borrk/Fiber-Identifier/raw/master/doc/System-Architecture.png)
 
 ## Contributing
 
